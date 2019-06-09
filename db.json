@@ -1,0 +1,121 @@
+{
+    "data": {
+      "avatar": "https://media.licdn.com/dms/image/C5103AQEXHhESj50D1Q/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=GK59RY5RvcSCBYZ545Gz36IZ11nV_9i1Z8JvJ3PEFQY",
+      "name": "Johnny Ordoñez",
+      "profession": "Developer WEB Python and Django",
+      "bio": "Systems Engineer || Student at Platzi || Opensource Enthusiast | Python and JavaScript Developer | I am a developer web backend and frontend living in Venezuela. I have been working in the software industry for 3+ years. You can consider me as an open source enthusiast, passionate about software development, user windows, self motivated person who loves writing codes professionally, as well as a hobby.",
+      "address": "Bogotá, Venezuela",
+      "social": {
+        "0": {
+          "name": "facebook",
+          "url": "https://www.facebook.com/johnnystefan.ordonezmazurek"
+        },
+        "1": {
+          "name": "twitter",
+          "url": "https://twitter.com/JSfesta"
+        },
+        "2": {
+          "name": "github",
+          "url": "https://github.com/johnnystefan"
+        },
+        "3": {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/johnnydev/"
+        }
+      },
+      "experience": {
+        "0": {
+          "jobTitle": "Developer WEB Python and Django",
+          "company": "In Myself",
+          "startDate": "Sep. 2017",
+          "endDate": "Present",
+          "jobDescription": "In 2017 I started as a Python developer, since then I have been presented as such, Python being one of my favorite skills that particularly together with Django, make my ideal web development stack."
+        },
+        "1": {
+          "jobTitle": "Frontend && Backend Developer",
+          "company": "SysArteck",
+          "startDate": "Jan. 2018",
+          "endDate": "Aug. 2018",
+          "jobDescription": "I performed functions as frontend developer and backend, in the image change of the pages, where I designed the page design, giving it interactivity, functionality and style. As well as designing and connecting the views of the server with the user interface."
+        }
+      },
+      "education": {
+        "0": {
+          "degree": "Systems Engineer",
+          "institution": "UNEFA",
+          "startDate": "Sep. 2010",
+          "endDate": "Dec. 2016.",
+          "description": "UNEFA:  Universidad Nacional Experimental Politécnica de la Fuerza Armada."
+        },
+        "1": {
+          "degree": "Student",
+          "institution": "Platzi",
+          "startDate": "Sep. 2017",
+          "endDate": "present",
+          "description": "The best way to learn what it is, is in Platzi."
+        }
+      },
+      "certificate": {
+        "0": {
+          "name": "Backend Development Career with Python and Django",
+          "institution": "Platzi",
+          "date": "Dec. 2017",
+          "description": "Backend Development Career with Python and Django."
+        },
+        "1": {
+          "name": "Python and Django Course",
+          "institution": "Platzi",
+          "date": "Nov. 2017",
+          "description": "Python and Django Course."
+        },
+        "2": {
+          "name": "PostgreSQL Course",
+          "institution": "Platzi",
+          "date": "Nov. 2017",
+          "description": "PostgreSQL Course."
+        },
+        "3": {
+          "name": "Python Course",
+          "institution": "Platzi",
+          "date": "Sep. 2017",
+          "description": "Python Course"
+        },
+        "4": {
+          "name": "Basic Programming Course",
+          "institution": "Platzi",
+          "date": "Sep. 2017",
+          "description": "Basic Programming Course"
+        }
+      },
+      "skills": {
+        "0": {
+          "name": "HTML5",
+          "percentage": "75%"
+        },
+        "1": {
+          "name": "CSS",
+          "percentage": "75%"
+        },
+        "2": {
+          "name": "JavaScript",
+          "percentage": "75%"
+        },
+        "3": {
+          "name": "Python",
+          "percentage": "70%"
+        },
+        "4": {
+          "name": "Django",
+          "percentage": "70%"
+        },
+        "5": {
+          "name": "PostgreSql",
+          "percentage": "55%"
+        },
+        "6": {
+          "name": "React",
+          "percentage": "20%"
+        }
+      }
+    }
+  }
